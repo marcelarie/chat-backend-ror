@@ -1,2 +1,2 @@
-align_chained_calls true
+align_chained_calls false
 align_case_when true
